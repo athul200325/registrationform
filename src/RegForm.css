@@ -1,0 +1,8 @@
+.formbackground{
+    background-image: url('https://images.pexels.com/photos/1878399/pexels-photo-1878399.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form{
+    background-color: rgb(255, 255, 255);
+}
